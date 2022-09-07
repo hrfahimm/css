@@ -1,0 +1,19 @@
+.container{
+    width: 600px ;
+    margin: 20px auto;
+    border: 5px sold gray;
+}
+input:focus{
+    outline: none;
+    border: 2px solid red;
+    padding: 5px;
+
+}
+input:checked{
+    width: 15px;
+    height: 15px;
+}
+button:disabled{
+    padding: 10px;
+    
+}
